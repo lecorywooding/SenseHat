@@ -7,7 +7,7 @@
 -	Computer 
 -	Internet Access
 
->Using a SenseHat board, attached to an Raspberry Pi 3,  I will code a Python program that will make use of built in gyroscope, accelerometer, magnetometer, temperature, and barometric pressure gauges displaying its readings on the 8x8 LED light grid located atop the board. The readings will be displayed >in a marquee manner, refreshing its content every minute until a keyboard command is executed, killing the program. 
+>Using a SenseHat board, attached to an Raspberry Pi 3,  I will code a Python program that will make use of built in gyroscope, accelerometer, magnetometer, temperature, and barometric pressure gauges displaying its readings on the 8x8 LED light grid located atop the board. The readings will be displayed in a marquee manner, refreshing its content every minute, until forcefully killed. 
 
 ## Getting Started
 ```sh

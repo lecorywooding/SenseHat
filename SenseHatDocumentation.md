@@ -45,4 +45,4 @@ from sense_hat import SenseHat
 ## What is INITIAL STATE?
 >A data storage/analytics site for IoT (Internet of Things) devices
 - The data is uploaded directly to the website via preauthorized keys that you receive after completion
-- The data is then reflected in bar
+- The data is then displayed in bar graphs
